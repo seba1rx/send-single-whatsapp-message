@@ -12,4 +12,4 @@ https://stackoverflow.com/questions/11381673/detecting-a-mobile-browser
 
 to put together a simple way to send a whatsapp message.
 
-Just include the script and invoke the function sendCustomWhatsappMessage(theDestination,theMsg); to send a message.
+Just include the script and invoke the function `sendCustomWhatsappMessage(theDestination,theMsg);` to send a message.
